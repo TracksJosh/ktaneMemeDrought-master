@@ -16,6 +16,6 @@ MonoBehaviour:
   author: TracksJosh
   description: "It\u2019s all because the low taper fade died off\u2026\nThis is for
     my senior honor's project. I hope I graduate with honors!"
-  version: 1.0
+  version: 1.01
   outputFolder: build
   previewImage: {fileID: 2800000, guid: 1c5b991ba62c94445b11a46f2b0d4f77, type: 3}
